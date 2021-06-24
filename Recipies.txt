@@ -5,6 +5,7 @@ welcome to spoortis laptop
 HP
 DELL
 lenovo
-
+asus
+acer
 
 Thank you
